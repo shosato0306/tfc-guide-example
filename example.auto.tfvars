@@ -1,0 +1,1 @@
+db_write_capacity = 2
